@@ -1,5 +1,5 @@
 <strong><font size="7">bioAics</font></strong>
-[Menu](bioAics https://bioaics.github.io/bioAics-menu-icon.svg)
+<img src="https://bioaics.github.io/bioAics-menu-icon.svg" />
 ## [Home](https://bioaics.github.io)   [Navigation](https://navigation.github.io)
 **bioAics - biology Ai computer science**
 
