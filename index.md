@@ -1,6 +1,5 @@
 <strong><font size="7">bioAics</font></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bioaics.github.io/menu" ><img src="https://bioaics.github.io/bioAics-menu-icon.svg" alt="" /></a>
-## biology/Ai/computer science
-
+### biology/Ai/computer science
 **Welcome to bioAics**
 
 Nice to meet! How can we help?
