@@ -4,7 +4,7 @@
 ## **computer science**
 **Welcome to bioAics**
 
-Nice to meet! How can we help?
+Nice to meet You! How is it?
 
 ## Contact
 **Call: <a href="tel:0031685842325">+31 6 85842325</a>**
