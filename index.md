@@ -3,7 +3,7 @@
 ## [Home](https://bioaics.github.io)
 ### Welcome to bioAics
 
-**biology Ai & computer science**
+**biology Ai computer science**
 
 Updating Site! Please visit us again soon
 
