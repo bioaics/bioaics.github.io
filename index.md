@@ -12,9 +12,9 @@
 **Mail: [bioaics.x@gmail.com](bioaics.x@gmail.com)**
 
 **Messenger: [m.me/bioAics](https://m.me/bioAics)**
-## Find us
-**URL: [https://bioaics.github.io](https://bioaics.github.io/)**
 
+**URL: [https://bioaics.github.io](https://bioaics.github.io/)**
+## Find us
 **[GitHub](https://github.com/bioaics)**
 
 Copyright © 2019 bioAics
