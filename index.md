@@ -1,5 +1,5 @@
 <strong><font size="7">bioAics</font></strong>
-## [Home](https://bioaics.github.io)
+## [Home](https://bioaics.github.io)   [Navigation](https://navigation.github.io)
 **bioAics - biology Ai computer science**
 
 **We are updating our website!**
@@ -11,8 +11,10 @@
 
 **Mail: [bioaics.x@gmail.com](bioaics.x@gmail.com)**
 
+**Messenger: [m.me/bioAics](https://m.me/bioAics)**
+
 **URL: [https://bioaics.github.io](https://bioaics.github.io/)**
 
-[Editor](https://github.com/bioaics/bioaics.github.io/edit/master/index.md)
+**[GitHub](https://github.com/bioaics)
 
 Copyright © 2019 bioAics
