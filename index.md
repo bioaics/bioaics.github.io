@@ -1,4 +1,4 @@
-<font size="6">bioAics</font>
+# bioAics
 
 ## [Home](https://bioaics.github.io)
 **Welcome to bioAics**
