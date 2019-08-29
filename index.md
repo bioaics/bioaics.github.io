@@ -1,17 +1,21 @@
-<font size="7">bioAics</font>
+<font size="6">bioAics</font>
 
-biological Atificial intelligence computer science
+**biological**
+
+**Atificial intelligence computer science**
 
 ## [Home](https://bioaics.github.io)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Welcome to bioAics**
 
-```markdown
+**Artificial intelligence Agency AiA**
 
 ## Contact
-Call: +31 6 8584 2325
+**Call: <a href="tel:0031685842325">+31 6 85842325</a>**
 
-Mail: [bioaics.x@gmail.com](bioaics.x@gmail.com)
+**Mail: [bioaics.x@gmail.com](bioaics.x@gmail.com)**
+
+**URL: [https://bioaics.github.io](https://bioaics.github.io/)
 
 [Editor](https://github.com/bioaics/bioaics.github.io/edit/master/index.md)
 
