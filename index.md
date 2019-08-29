@@ -12,7 +12,7 @@
 
 **Mail: [bioaics.x@gmail.com](bioaics.x@gmail.com)**
 
-**URL: [https://bioaics.github.io](https://bioaics.github.io/)
+**URL: [https://bioaics.github.io](https://bioaics.github.io/)**
 
 [Editor](https://github.com/bioaics/bioaics.github.io/edit/master/index.md)
 
