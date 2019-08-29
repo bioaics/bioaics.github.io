@@ -1,4 +1,5 @@
 <strong><font size="7">bioAics</font></strong>
+[Menu](bioAics https://bioaics.github.io/menu icon.svg)
 ## [Home](https://bioaics.github.io)   [Navigation](https://navigation.github.io)
 **bioAics - biology Ai computer science**
 
@@ -15,6 +16,8 @@
 
 **URL: [https://bioaics.github.io](https://bioaics.github.io/)**
 
-**[GitHub](https://github.com/bioaics)
+**[GitHub](https://github.com/bioaics)**
 
 Copyright © 2019 bioAics
+
+bioAics menu icon.svg
