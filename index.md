@@ -1,11 +1,11 @@
 # bioAics
 
 ## [Home](https://bioaics.github.io)
-### Welcome to bioAics
+## bioAics
 
-**biology Ai computer science**
+### biology Ai computer science
 
-Updating Site! Please visit us again soon
+**Updating Site! Please visit us again soon**
 
 ### Contact
 **Call: <a href="tel:0031685842325">+31 6 85842325</a>**
