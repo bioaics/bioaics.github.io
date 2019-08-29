@@ -2,9 +2,9 @@
 
 <strong><font size="5">biology Ai computer science</font></strong>
 
-**We are updating our website!**
+**Welcome to bioAics**
 
-**Please visit us again soon.**
+Nice to meet! How can we help?
 
 ## Contact
 **Call: <a href="tel:0031685842325">+31 6 85842325</a>**
