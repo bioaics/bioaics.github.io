@@ -1,13 +1,13 @@
-# **bioAics**
+# bioAics
 
 ## [Home](https://bioaics.github.io)
-## Welcome to bioAics
+### Welcome to bioAics
 
 **biological**
 
 **Atificial intelligence computer science**
 
-## Contact
+### Contact
 **Call: <a href="tel:0031685842325">+31 6 85842325</a>**
 
 **Mail: [bioaics.x@gmail.com](bioaics.x@gmail.com)**
