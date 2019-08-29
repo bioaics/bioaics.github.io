@@ -1,7 +1,7 @@
 <font size="7">bioAics</font>
 
 ## [Home](https://bioaics.github.io)
-### bioAics - biology Ai computer science
+### bioAics biology Ai computer science
 **Updating Site!**
 
 **Please visit us again soon**
