@@ -1,7 +1,7 @@
-# bioAics
+# **bioAics**
 
 ## [Home](https://bioaics.github.io)
-**Welcome to bioAics**
+## Welcome to bioAics
 
 **biological**
 
