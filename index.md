@@ -6,7 +6,6 @@
 <p><strong><font size="4">Or jump to sections (lines) & Click</font></strong> <img src="https://bioaics.github.io/bioAics link symbol.png" ></p>
 
 ## Contact
-
 **Call: [+31 6 8584 2325](tel:+31685842325){:target="_blank"}**
 
 **WhatsApp: [+31 6 8584 2325](https://wa.me/31685842325){:target="_blank"}**
