@@ -3,7 +3,7 @@
 <p><strong><font size="5"><a href="https://bioaics.github.io">Navigation</a></font></strong></p>
 <p><strong><font size="6">Welcome to bioAics</font></strong></p>
 <p><strong><font size="4">Please Use Navigation for Contents.</font></strong></p>
-<p><strong><font size="4">Or jump to sections (lines) & Click</font></strong> <img src="https://bioaics.github.io/bioAics link symbol.png" ></p>
+<p><strong><font size="4">Or jump to sections (lines) Click</font></strong> <img src="https://bioaics.github.io/bioAics link symbol.png" ></p>
 
 ## Contact
 <strong><font size="5"><a href="tel:+31685842325">Call</a></font></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
