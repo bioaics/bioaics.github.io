@@ -11,9 +11,9 @@
 
 **Messenger: [m.me/bioAics](https://m.me/bioAics){:target="_blank"}**
 
-**Mail: [bioaics.x@gmail.com](mailto:bioaics.x@gmail.com){:target="_blank"}**
+**Mail: [bioaics.x@gmail.com](mailto:bioaics.x@gmail.com)**
 
 ## Find
-**[GitHub](https://github.com/bioaics)**
+**[GitHub](https://github.com/bioaics){:target="_blank"}**
 
 Copyright © 2019 bioAics
