@@ -13,6 +13,6 @@
 
 **E-Mail: [bioaics.x@gmail.com](mailto:bioaics.x@gmail.com)**
 ## Find
-**[GitHub](https://github.com/bioaics){:target="_blank"}**
+**[twitter.com/bioAics](https://twitter.com/bioAics) [GitHub](https://github.com/bioaics){:target="_blank"}**
 
 Copyright © 2019 bioAics
