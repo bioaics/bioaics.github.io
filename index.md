@@ -4,7 +4,6 @@
 <p><strong><font size="6">Welcome to bioAics</font></strong></p>
 <p><strong><font size="4">Nice to meet You ! How is it ?</font></strong></p>
 <p><strong><font size="4">Please Use Navigation for Contents.</font></strong></p>
-
 ## Contact
 **Call: [+31 6 8584 2325](tel:+31685842325){:target="_blank"}**
 
@@ -13,7 +12,6 @@
 **Messenger: [m.me/bioAics](https://m.me/bioAics){:target="_blank"}**
 
 **E-Mail: [bioaics.x@gmail.com](mailto:bioaics.x@gmail.com)**
-
 ## Find
 **[GitHub](https://github.com/bioaics){:target="_blank"}**
 
