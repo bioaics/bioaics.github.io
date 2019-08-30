@@ -10,8 +10,8 @@
 <strong><font size="5"><a href="mailto:bioaics.x@gmail.com">E-Mail</a></font></strong>&nbsp;&nbsp;&nbsp;&nbsp;
 <strong><font size="5"><a href="https://m.me/bioAics">Messenger</a></font></strong>
 
-## Find
-<strong><font size="5"><a href="https://twitter.com/bioAics">twitter</a></font></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### Find
+<strong><font size="4"><a href="https://twitter.com/bioAics">twitter</a></font></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <strong><font size="4"><a href="https://github.com/bioaics">GitHub</a></font></strong>
 
 Copyright © 2019 bioAics
