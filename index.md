@@ -1,4 +1,6 @@
-<a href="http://bioaics.github.io/"><img src="http://bioaics.github.io/bioAics-logo.png" ></a>
+<font size="7">bioAics</font>
+
+<font size="5">biology Ai computer science</font>
 
 **Welcome to bioAics**
 
