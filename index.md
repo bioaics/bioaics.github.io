@@ -6,7 +6,7 @@
 <p><strong><font size="4">Or jump to sections (lines) & Click</font></strong> <img src="https://bioaics.github.io/bioAics link symbol.png" ></p>
 
 ## Contact
-**Call: [+31 6 8584 2325](tel:+31685842325){:target="_blank"}&nbsp;&nbsp;&nbsp;Messenger: [m.me/bioAics](https://m.me/bioAics){:target="_blank"}**&nbsp;&nbsp;&nbsp;E-Mail: [bioaics.x@gmail.com](mailto:bioaics.x@gmail.com)**
+**[Call](tel:+31685842325){:target="_blank"}&nbsp;&nbsp;&nbsp;[Messenger](https://m.me/bioAics){:target="_blank"}&nbsp;&nbsp;&nbsp;[E-Mail](mailto:bioaics.x@gmail.com)**
 ## Find
 **[twitter](https://twitter.com/bioAics){:target="_blank"}&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/bioaics){:target="_blank"}**
 
