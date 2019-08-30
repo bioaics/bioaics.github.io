@@ -1,7 +1,5 @@
 <strong><font size="7">bioAics</font></strong>
-## **biology**
-## **Artificial intelligence**
-## **computer science**
+<strong><font size="3">biology Artificial intelligence computer science</font></strong>
 **Welcome to bioAics**
 
 **Nice to meet You ! How can we help ?**
