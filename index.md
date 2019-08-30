@@ -2,7 +2,8 @@
 <p><strong><font size="5">biology Ai computer science</font></strong></p>
 ## [Navigation](https://bioaics.github.io)
 <p><strong><font size="5">Nice to meet You !</font></strong></p>
-<p><strong><font size="5">How can we help ?</font></strong></p>
+<p><strong><font size="5">How is it ?</font></strong></p>
+<p><strong><font size="5">Use Navigation for Contents.</font></strong></p>
 
 ## Contact
 **Call: <a href="tel:0031685842325">+31 6 8584 2325</a>**
