@@ -1,8 +1,8 @@
 <p><strong><font size="7">bioAics</font></strong></p>
 <font size="5">biology Ai computer science</font></p>
-**Welcome to bioAics**</p>
-**Nice to meet You !**</p>
-**How can we help ?**</p>
+<p>**Welcome to bioAics**</p>
+<p>**Nice to meet You !**</p>
+<p>**How can we help ?**</p>
 ## Contact
 **Call: <a href="tel:0031685842325">+31 6 8584 2325</a>**
 
