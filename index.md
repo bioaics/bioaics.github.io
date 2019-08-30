@@ -1,4 +1,4 @@
-<p><strong><font size="7">bioAics</font></strong></p>
+# bioAics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Navigation](https://bioaics.github.io)
 <p><strong><font size="5">biology Ai computer science</font></strong></p>
 ## [Home](https://bioaics.github.io/)
 <p><strong><font size="5">Nice to meet You !</font></strong></p>
