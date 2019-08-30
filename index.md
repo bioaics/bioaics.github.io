@@ -5,13 +5,14 @@
 <p><strong><font size="4">Please Use Navigation for Contents.</font></strong></p>
 
 ## Contact
-**Call: <a href="tel:0031685842325">+31 6 8584 2325</a>**
+**Call: [+31 6 8584 2325](tel:0031685842325)**
 
-**Mail: [bioaics.x@gmail.com](mailto:bioaics.x@gmail.com)**
+**WhatsApp: [+31 6 8584 2325](https://wa.me/31685842325)**
 
 **Messenger: [m.me/bioAics](https://m.me/bioAics)**
 
-**URL: [https://bioaics.github.io](https://bioaics.github.io/)**
+**Mail: [bioaics.x@gmail.com](mailto:bioaics.x@gmail.com)**
+
 ## Find
 **[GitHub](https://github.com/bioaics)**
 
