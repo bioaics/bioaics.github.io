@@ -1,5 +1,5 @@
-# **bioAics**
-<strong><font size="5">biology Ai computer science</font></strong>
+# <strong>bioAics</strong>
+## <strong>biology Ai computer science</strong>
 
 **Welcome to bioAics**
 
