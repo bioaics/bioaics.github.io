@@ -1,6 +1,6 @@
 <p><strong><font size="7">bioAics</font></strong></p>
 <p><strong><font size="5">biology Ai computer science</font></strong></p>
-<p><strong><font size="4">Welcome to bioAics</font></strong></p>
+<p><strong><font size="4">[Home](https://bioaics.github.io/)</font></strong></p>
 <p><font size="4">Nice to meet You !</font></p>
 <p><font size="4">How can we help ?</font></p>
 
