@@ -12,7 +12,7 @@
 
 **Messenger: [m.me/bioAics](https://m.me/bioAics){:target="_blank"}**
 
-**Mail: [bioaics.x@gmail.com](mailto:bioaics.x@gmail.com)**
+**Mail: [info@bioaics.github.io](mailto:bioaics.x@gmail.com)**
 
 ## Find
 **[GitHub](https://github.com/bioaics){:target="_blank"}**
