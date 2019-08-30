@@ -4,6 +4,7 @@
 <p><strong><font size="6">Welcome to bioAics</font></strong></p>
 <p><strong><font size="4">Nice to meet You ! How is it ?</font></strong></p>
 <p><strong><font size="4">Please Use Navigation for Contents.</font></strong></p>
+<p><strong><font size="4">Or jump to section. Click 🔗 at the line</font></strong></p>
 ## Contact
 **Call: [+31 6 8584 2325](tel:+31685842325){:target="_blank"}**
 
