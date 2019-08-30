@@ -5,7 +5,7 @@
 
 <p><strong><font size="7">bioAics</font></strong></p>
 <p><strong><font size="6">Welcome to bioAics</font></strong></p>
-<p><strong><font size="5">Please Use Menu above for Contents. Or jump to sections (lines) Click</font></strong> <img src="https://bioaics.github.io/bioAics link symbol.png" ></p>
+<p><strong><font size="5">Please Use the Menu above to get to the Contents of the site. Or jump to the sections (thin lines) by Clicking</font></strong> <img src="https://bioaics.github.io/bioAics link symbol.png" ></p>
 
 ## Find
 <strong><font size="5"><a href="https://twitter.com/bioAics">twitter</a></font></strong>&nbsp;&nbsp;&nbsp;
