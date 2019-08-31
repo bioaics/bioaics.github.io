@@ -9,4 +9,4 @@
 <p><strong><font size="5">Find</font></strong></P>
 <p><strong><a href="https://twitter.com/bioAics">twitter</a></strong>&nbsp;&nbsp;&nbsp;
 <strong><a href="https://github.com/bioaics">GitHub</a></strong></P>
-Copyright © 2019 bioAics. <a href="https://bioaics.github.io">Legal</a>
+Copyright © 2019 bioAics. <strong><a href="https://bioaics.github.io">Legal</a></strong>
