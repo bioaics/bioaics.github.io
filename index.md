@@ -4,8 +4,8 @@
 
 <p><strong><font size="7">bioAics</font></strong><p>
 <p><font size="5">biology | Ai | computer science</font></p>
-<p><strong>Home</strong></P>
-<p>Please use the Menu above to visit the Pages of this website.</p>
+<p><strong><font size="5">Home</font></strong></P>
+<p>Use Menu to see Pages of this website.</p>
 <p><strong><font size="5"><a href="https://twitter.com/bioAics">twitter</a></font></strong>&nbsp;&nbsp;&nbsp;
 <strong><font size="5"><a href="https://github.com/bioaics">GitHub</a></font></strong></P>
 Copyright © 2019 bioAics. <strong><a href="https://bioaics.github.io">Legal</a></strong>
