@@ -8,5 +8,5 @@
 <p><strong><font size="5">Welcome to bioAics</font></strong></P>
 <hr>
 <p><strong><font size="4"><a href="https://twitter.com/bioAics">twitter</a></font></strong>&nbsp;&nbsp;&nbsp;
-<strong><font size="4"><a href="https://github.com/bioaics">GitHub</a></font></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="https://bioaics.github.io/legal">Legal</a></strong>
+<strong><font size="4"><a href="https://github.com/bioaics">GitHub</a></font></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="https://bioaics.github.io/legal">Legal</a></strong></p>
 © 2019 bioAics.
