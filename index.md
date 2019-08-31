@@ -4,9 +4,9 @@
 <strong><font size="5"><a href="https://bioaics.github.io">Menu</a></font></strong>
 
 <p><strong><font size="7">bioAics</font></strong></p>
-<p><strong><font size="6">Welcome to bioAics</font></strong></p>
-<p><strong><font size="5">Please use the Menu above to visit the Pages of the site.</font></strong></p>
-<strong><font size="5">Jump direct to the sections (thin lines) by Clicking</font></strong> <img src="https://bioaics.github.io/bioAics link symbol.png" >
+<p><strong><font size="4">Welcome to bioAics</font></strong></p>
+<p><strong><font size="4">Please use the Menu above to visit the Pages of the site.</font></strong></p>
+<strong><font size="4">Jump direct to the sections (thin lines) by Clicking</font></strong> <img src="https://bioaics.github.io/bioAics link symbol.png" >
 
 ## Find
 <strong><font size="5"><a href="https://twitter.com/bioAics">twitter</a></font></strong>&nbsp;&nbsp;&nbsp;
