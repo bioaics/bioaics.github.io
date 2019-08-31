@@ -8,7 +8,8 @@
 <p><strong><font size="4">Please use the Menu above to visit the Pages of the site. Jump direct to the sections (thin lines) by tab</font></strong> <img src="https://bioaics.github.io/bioAics link symbol.png" ></p>
 
 ## Find
+
 <p><strong><font size="5"><a href="https://twitter.com/bioAics">twitter</a></font></strong>&nbsp;&nbsp;&nbsp;
 <strong><font size="5"><a href="https://github.com/bioaics">GitHub</a></font></strong></p>
 
-Copyright © 2019 bioAics&nbsp;&nbsp;&nbsp;[Legal](https://bioaics.github.io/legal)
+Copyright © 2019 bioAics [Legal](https://bioaics.github.io)
