@@ -7,7 +7,7 @@
 <p><strong>Welcome to bioAics</strong></p>
 <p><strong>Please use the Menu above to visit the Pages of the site. Jump direct to the sections (thin lines) by tab</strong> <img src="https://bioaics.github.io/bioAics link symbol.png" ></p>
 
-<h4 id="h4">Find</h4>
+<h2 id="h2">Find</h2>
 
 <p><strong><a href="https://twitter.com/bioAics">twitter</a></strong>&nbsp;&nbsp;&nbsp;
 <strong><a href="https://github.com/bioaics">GitHub</a></strong></P>
