@@ -4,12 +4,12 @@
 <strong><font size="5"><a href="https://bioaics.github.io">Menu</a></font></strong>
 
 <p><strong><font size="7">bioAics</font></strong><p>
-<p><strong><font size="4">Welcome to bioAics</font></strong></p>
-<p><strong><font size="4">Please use the Menu above to visit the Pages of the site. Jump direct to the sections (thin lines) by tab</font></strong> <img src="https://bioaics.github.io/bioAics link symbol.png" ></p>
+<p><strong>Welcome to bioAics</strong></p>
+<p><strong>Please use the Menu above to visit the Pages of the site. Jump direct to the sections (thin lines) by tab</strong> <img src="https://bioaics.github.io/bioAics link symbol.png" ></p>
 
 <h4 id="h4">Find</h4>
 
-<p><strong><font size="4"><a href="https://twitter.com/bioAics">twitter</a></font></strong>&nbsp;&nbsp;&nbsp;
-<strong><font size="4"><a href="https://github.com/bioaics">GitHub</a></font></strong></P>
+<p><strong><a href="https://twitter.com/bioAics">twitter</a></strong>&nbsp;&nbsp;&nbsp;
+<strong><a href="https://github.com/bioaics">GitHub</a></strong></P>
 
-Copyright © 2019 bioAics <a href="https://bioaics.github.io">Legal</a>
+Copyright © 2019 bioAics. <a href="https://bioaics.github.io">Legal</a>
