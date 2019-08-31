@@ -7,7 +7,7 @@
 <p><strong><font size="4">Welcome to bioAics</font></strong></p>
 <p><strong><font size="4">Please use the Menu above to visit the Pages of the site. Jump direct to the sections (thin lines) by tab</font></strong> <img src="https://bioaics.github.io/bioAics link symbol.png" ></p>
 
-# one
+#one
 
 <h2 id="h2">Find</h2>
 
