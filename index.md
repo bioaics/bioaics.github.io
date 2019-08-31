@@ -9,4 +9,4 @@
 <hr>
 <p><strong><font size="4"><a href="https://twitter.com/bioAics">twitter</a></font></strong>&nbsp;&nbsp;&nbsp;
 <strong><font size="4"><a href="https://github.com/bioaics">GitHub</a></font></strong></P>
-© 2019 bioAics.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="https://bioaics.github.io">Legal</a></strong>
+© 2019 bioAics.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><a href="https://bioaics.github.io">Legal</a></strong>
