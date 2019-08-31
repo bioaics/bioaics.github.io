@@ -4,7 +4,8 @@
 
 <p><strong><font size="7">bioAics</font></strong><p>
 <p><font size="5">biology | Ai | computer science</font></p>
-<p>Please use the Menu above to visit the Pages of this website. Jump direct to the sections (thin lines) and click <img src="https://bioaics.github.io/bioAics link symbol.png" ></p>
+<p><strong>Home</strong></P>
+<p>Please use the Menu above to visit the Pages of this website.</p>
 <p><strong><font size="5">Find</font></strong></P>
 <p><strong><a href="https://twitter.com/bioAics">twitter</a></strong>&nbsp;&nbsp;&nbsp;
 <strong><a href="https://github.com/bioaics">GitHub</a></strong></P>
