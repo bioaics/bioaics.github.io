@@ -6,10 +6,10 @@
 <p><font size="5">biology | Ai | computer science</font></p>
 <p><strong><font size="4">Legal</font></strong></P>
 <p><strong><font size="5">bioAics</font></strong></P>
-<p><font size="5">Jan Wolf</font></P>
-<p><font size="5">Alexanderplatz 1</font></P>
-<p><font size="5">10178 Berlin</font></P>
-<p><font size="5">Germany</font></P>
+<p><strong>Jan Wolf</strong></P>
+<p><strong>Alexanderplatz 1</strong></P>
+<p><strong>10178 Berlin</strong></P>
+<p><strong>Germany</strong></P>
 <hr>
 <p><strong><font size="4"><a href="https://twitter.com/bioAics">twitter</a></font></strong>&nbsp;&nbsp;&nbsp;
 <strong><font size="4"><a href="https://github.com/bioaics">GitHub</a></font></strong></P>
