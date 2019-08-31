@@ -9,7 +9,7 @@
 
 <h2 id="h2">Find</h2>
 
-<p><strong><a href="https://twitter.com/bioAics">twitter</a></strong>&nbsp;&nbsp;&nbsp;
-<strong><a href="https://github.com/bioaics">GitHub</a></strong></P>
+<p><strong><font size="4"><a href="https://twitter.com/bioAics">twitter</a></font></strong>&nbsp;&nbsp;&nbsp;
+<strong><font size="4"><a href="https://github.com/bioaics">GitHub</a></strong></font></P>
 
 Copyright © 2019 bioAics. <a href="https://bioaics.github.io">Legal</a>
