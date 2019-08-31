@@ -10,6 +10,6 @@
 <h2 id="h2">Find</h2>
 
 <p><strong><font size="4"><a href="https://twitter.com/bioAics">twitter</a></font></strong>&nbsp;&nbsp;&nbsp;
-<strong><font size="4"><a href="https://github.com/bioaics">GitHub</a></strong></font></P>
+<strong><font size="4"><a href="https://github.com/bioaics">GitHub</a></font></strong></P>
 
 Copyright © 2019 bioAics. <a href="https://bioaics.github.io">Legal</a>
