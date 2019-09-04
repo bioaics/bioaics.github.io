@@ -7,30 +7,13 @@
 <p><strong><font size="4">Home</font></strong></P>
 <p><strong><font size="5">Welcome to bioAics</font></strong></P>
 <hr>
-<body><div id="error-container" class="container"></div><div id="form-container" class="container"><div id="standalone-form"><form novalidate="" accept-charset="UTF-8" action="https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/6348461/478be260-a451-4fa8-8df7-ad2b8b571bf5" enctype="multipart/form-data" id="hsForm_478be260-a451-4fa8-8df7-ad2b8b571bf5" method="POST" class="hs-form stacked hs-form-private hsForm_478be260-a451-4fa8-8df7-ad2b8b571bf5 hs-form-478be260-a451-4fa8-8df7-ad2b8b571bf5 hs-form-478be260-a451-4fa8-8df7-ad2b8b571bf5_0b058a8e-765b-4667-a583-7f73d99dc4dd" data-form-id="478be260-a451-4fa8-8df7-ad2b8b571bf5" data-portal-id="6348461" target="target_iframe_478be260-a451-4fa8-8df7-ad2b8b571bf5" data-reactid=".hbspt-forms-0"><div class="hs_firstname hs-firstname hs-fieldtype-text field hs-form-field" data-reactid=".hbspt-forms-0.1:$0"><label id="label-firstname-478be260-a451-4fa8-8df7-ad2b8b571bf5" class="" placeholder="Enter your First name" for="firstname-478be260-a451-4fa8-8df7-ad2b8b571bf5" data-reactid=".hbspt-forms-0.1:$0.0"><span data-reactid=".hbspt-forms-0.1:$0.0.0">First name</span></label><legend class="hs-field-desc" style="display:none;" data-reactid=".hbspt-forms-0.1:$0.1"></legend><div class="input" data-reactid=".hbspt-forms-0.1:$0.$firstname"><input id="firstname-478be260-a451-4fa8-8df7-ad2b8b571bf5" class="hs-input" type="text" name="firstname" value="" placeholder="" autocomplete="given-name" data-reactid=".hbspt-forms-0.1:$0.$firstname.0"></div></div><div class="hs_lastname hs-lastname hs-fieldtype-text field hs-form-field" data-reactid=".hbspt-forms-0.1:$1"><label id="label-lastname-478be260-a451-4fa8-8df7-ad2b8b571bf5" class="" placeholder="Enter your Last name" for="lastname-478be260-a451-4fa8-8df7-ad2b8b571bf5" data-reactid=".hbspt-forms-0.1:$1.0"><span data-reactid=".hbspt-forms-0.1:$1.0.0">Last name</span></label><legend class="hs-field-desc" style="display:none;" data-reactid=".hbspt-forms-0.1:$1.1"></legend><div class="input" data-reactid=".hbspt-forms-0.1:$1.$lastname"><input id="lastname-478be260-a451-4fa8-8df7-ad2b8b571bf5" class="hs-input" type="text" name="lastname" value="" placeholder="" autocomplete="family-name" data-reactid=".hbspt-forms-0.1:$1.$lastname.0"></div></div><div class="hs_email hs-email hs-fieldtype-text field hs-form-field" data-reactid=".hbspt-forms-0.1:$2"><label id="label-email-478be260-a451-4fa8-8df7-ad2b8b571bf5" class="" placeholder="Enter your Email" for="email-478be260-a451-4fa8-8df7-ad2b8b571bf5" data-reactid=".hbspt-forms-0.1:$2.0"><span data-reactid=".hbspt-forms-0.1:$2.0.0">Email</span><span class="hs-form-required" data-reactid=".hbspt-forms-0.1:$2.0.1">*</span></label><legend class="hs-field-desc" style="display:none;" data-reactid=".hbspt-forms-0.1:$2.1"></legend><div class="input" data-reactid=".hbspt-forms-0.1:$2.$email"><input id="email-478be260-a451-4fa8-8df7-ad2b8b571bf5" class="hs-input" type="email" name="email" required="" placeholder="" value="" autocomplete="email" data-reactid=".hbspt-forms-0.1:$2.$email.0"></div></div><div class="hs_message hs-message hs-fieldtype-textarea field hs-form-field" data-reactid=".hbspt-forms-0.1:$3"><label id="label-message-478be260-a451-4fa8-8df7-ad2b8b571bf5" class="" placeholder="Enter your Message" for="message-478be260-a451-4fa8-8df7-ad2b8b571bf5" data-reactid=".hbspt-forms-0.1:$3.0"><span data-reactid=".hbspt-forms-0.1:$3.0.0">Message</span></label><legend class="hs-field-desc" style="display:none;" data-reactid=".hbspt-forms-0.1:$3.1"></legend><div class="input" data-reactid=".hbspt-forms-0.1:$3.$message"><textarea id="message-478be260-a451-4fa8-8df7-ad2b8b571bf5" class="hs-input" name="message" placeholder="" data-reactid=".hbspt-forms-0.1:$3.$message.0"></textarea></div></div><noscript data-reactid=".hbspt-forms-0.2"></noscript><div class="hs_submit hs-submit" data-reactid=".hbspt-forms-0.5"><div class="hs-field-desc" style="display:none;" data-reactid=".hbspt-forms-0.5.0"></div><div class="actions" data-reactid=".hbspt-forms-0.5.1"><input type="submit" value="Submit" class="hs-button primary large" data-reactid=".hbspt-forms-0.5.1.0"></div></div><div class="hubspot-link__container sproket" data-reactid=".hbspt-forms-0.6"></div><input name="hs_context" type="hidden" value="{&quot;rumScriptExecuteTime&quot;:425.0350000220351,&quot;rumServiceResponseTime&quot;:576.4300000155345,&quot;rumFormRenderTime&quot;:6.905000016558915,&quot;rumTotalRenderTime&quot;:587.085000006482,&quot;rumTotalRequestTime&quot;:142.24999997531995,&quot;lang&quot;:&quot;en&quot;,&quot;pageUrl&quot;:&quot;https://share.hsforms.com/1R4viYKRRT6iN960ri1cb9Q3s2i5&quot;,&quot;source&quot;:&quot;FormsNext-static-3.357&quot;,&quot;timestamp&quot;:1567591377464,&quot;userAgent&quot;:&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36&quot;,&quot;originalEmbedContext&quot;:{&quot;portalId&quot;:&quot;6348461&quot;,&quot;formId&quot;:&quot;478be260-a451-4fa8-8df7-ad2b8b571bf5&quot;,&quot;target&quot;:&quot;#standalone-form&quot;,&quot;noShell&quot;:true},&quot;formTarget&quot;:&quot;#standalone-form&quot;,&quot;correlationId&quot;:&quot;7bb0e6d2-384f-48a5-85e8-9ccdff0c4cee&quot;,&quot;hutk&quot;:&quot;27d0ffcea66859b49562f4d7beef2ec2&quot;}" data-reactid=".hbspt-forms-0.7"><iframe name="target_iframe_478be260-a451-4fa8-8df7-ad2b8b571bf5" style="display:none;" data-reactid=".hbspt-forms-0.8"></iframe></form></div></div>
-<script src="//static.hsappstatic.net/FormsNext/static-3.357/bundles/project_for_standalone_legacy.js" type="text/javascript"></script>
-<script src="//static.hsappstatic.net/FormsNext/static-3.357/bundles/project_for_standalone.js" type="text/javascript"></script>
-<script>var isLocal = window.location.host.indexOf('local.') > -1
-var isQa = /hubspotqa|hsformsqa/.test(window.location.hostname)
-
-var embedScript = document.createElement('script')
-embedScript.type = 'text/javascript';
-embedScript.onreadystatechange = function () {
-  if (this.readyState == 'complete' || this.readyState == 'loaded') {
-    window.renderStandalone();
-  }
-}
-embedScript.onload = function() { window.renderStandalone(); }
-
-if(isLocal){
-  embedScript.src = '../FormsNext/static-3.357/bundles/project_for_test.js'
-}else if (isQa) {
-  embedScript.src = '//js.hsformsqa.net/forms/v2.js'
-} else {
-  embedScript.src = '//js.hsforms.net/forms/v2.js'
-}
-document.getElementsByTagName('head')[0].appendChild(embedScript);</script><script type="text/javascript" async="" defer="" src="https://js.hs-scripts.com/6348461.js"></script></body>
-<hr>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+  hbspt.forms.create({
+	portalId: "6348461",
+	formId: "478be260-a451-4fa8-8df7-ad2b8b571bf5"
+});
+</script><hr>
 <p><strong><a href="https://bioaics.github.io/legal">Legal</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><font size="4"><a href="https://twitter.com/bioAics">twitter</a></font></strong>&nbsp;&nbsp;&nbsp;
 <strong><font size="4"><a href="https://github.com/bioaics">GitHub</a></font></strong></P>
 © 2019 bioAics.
