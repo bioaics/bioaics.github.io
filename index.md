@@ -7,13 +7,6 @@
 <p><strong><font size="4">Home</font></strong></P>
 <p><strong><font size="5">Welcome to bioAics</font></strong></P>
 <hr>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-<script>
-  hbspt.forms.create({
-	portalId: "6348461",
-	formId: "478be260-a451-4fa8-8df7-ad2b8b571bf5"
-});
-</script>
 <p><strong><a href="https://bioaics.github.io/legal">Legal</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><font size="4"><a href="https://twitter.com/bioAics">twitter</a></font></strong>&nbsp;&nbsp;&nbsp;
 <strong><font size="4"><a href="https://github.com/bioaics">GitHub</a></font></strong></P>
 © 2019 bioAics.
