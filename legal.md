@@ -4,7 +4,7 @@
 
 <p><strong><font size="7">bioAics</font></strong><p>
 <p><strong><font size="4">Legal</font></strong></P>
-<p>Jan Wolf</P>
+<p>Ben Adam</P>
 <p>Alexanderplatz 1</P>
 <p>10178 Berlin</P>
 <p>Germany</P>
