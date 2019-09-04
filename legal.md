@@ -4,7 +4,6 @@
 
 <p><strong><font size="7">bioAics</font></strong><p>
 <p><strong><font size="4">Legal</font></strong></P>
-<p><strong><font size="5">bioAics</font></strong></P>
 <p>Jan Wolf</P>
 <p>Alexanderplatz 1</P>
 <p>10178 Berlin</P>
