@@ -4,6 +4,7 @@
 
 <p><strong><font size="7">bioAics</font></strong><p>
 <p><strong><font size="4">Legal</font></strong></P>
+<img src="/Ben Adam w400.jpg" >
 <p>Ben Adam</P>
 <p>Alexanderplatz 1</P>
 <p>10178 Berlin</P>
