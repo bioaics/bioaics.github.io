@@ -10,10 +10,9 @@
 <strong><font size="6"><a href="mailto:bioaics.x@gmail.com">Mail</a></font></strong>
 
 <p><strong><font size="7">bioAics</font></strong><p>
-<p><font size="5">biology | Ai | computer science</font></p>
-<p><font size="6">biology</font></p>
-<p><font size="6">Artificial intelligence</font></p>
-<p><font size="6">computer science</font></p>
+<p><strong><font size="6">biology</font></strong></p>
+<p><strong><font size="6">Artificial intelligence</font></strong></p>
+<p><strong><font size="6">computer science</font></strong></p>
 <hr>
 <p><strong><a href="https://bioaics.github.io/legal">Legal</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><font size="4"><a href="https://www.minds.com/bioaics" target="_blank">minds</a></font></strong>&nbsp;&nbsp;&nbsp;<strong><font size="4"><a href="https://twitter.com/bioAics" target="_blank">twitter</a></font></strong>&nbsp;&nbsp;&nbsp;<strong><font size="4"><a href="https://github.com/bioaics" target="_blank">GitHub</a></font></strong></P>
 © 2019 bioAics.
