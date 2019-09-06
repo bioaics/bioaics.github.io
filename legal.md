@@ -5,7 +5,7 @@
 # <strong><font size="7">bioAics</font></strong>
 <p><strong><font size="4">Legal</font></strong></P>
 <img src="/Ben Adam w400.jpg" >
-<p>Ben Adam</P>
+<p>Ben Adam Founder and CEO of bioAisc</P>
 <p>Alexanderplatz 1</P>
 <p>10178 Berlin</P>
 <p>Germany</P>
