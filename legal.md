@@ -2,7 +2,7 @@
 <strong><font size="6"><a href="tel:+31685842325">Call</a></font></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <strong><font size="6"><a href="mailto:bioaics.x@gmail.com">Mail</a></font></strong>
 
-# <p><strong><font size="7">bioAics</font></strong><p>
+# <strong><font size="7">bioAics</font></strong>
 <p><strong><font size="4">Legal</font></strong></P>
 <img src="/Ben Adam w400.jpg" >
 <p>Ben Adam</P>
