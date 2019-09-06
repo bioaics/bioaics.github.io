@@ -25,4 +25,4 @@
 <p><strong><font size="6">Artificial intelligence</font></strong></p>
 <p><strong><font size="6">computer science</font></strong></p>
 
-<font size="5"><a href="https://bioaics.github.io/legal">Legal</a></font> © 2019 bioAics <font size="5"><a href="https://www.minds.com/bioaics" target="_blank">minds</a></font></strong> <font size="5"><a href="https://twitter.com/bioAics" target="_blank">twitter</a></font>
+<font size="5"><a href="https://bioaics.github.io/legal">Legal</a></font> © 2019 bioAics <font size="5"><a href="https://www.minds.com/bioaics" target="_blank">minds</a></font> <font size="5"><a href="https://twitter.com/bioAics" target="_blank">twitter</a></font>
