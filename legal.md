@@ -5,7 +5,7 @@
 <p>bioAics</p>
 <p>CEO: Ben Adam </p>
 <p>Alexanderplatz 1, 10178 Berlin</P>
-<P>Germany in the European Union</P>
+<P>Germany in the EU</P>
 <P>Phone: 0031 6 8584 2325</P>
 
 <strong><font size="4"><a href="https://bioaics.github.io/legal">Legal</a></font></strong> © 2019 bioAics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><font size="4"><a href="https://www.minds.com/bioaics" target="_blank">minds</a></font> &nbsp; <font size="4"><a href="https://twitter.com/bioAics" target="_blank">twitter</a></font></strong>
