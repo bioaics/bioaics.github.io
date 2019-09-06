@@ -19,7 +19,6 @@
 <a href="https://bioaics.github.io"><img width="64px" src="/bioAics.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><font size="6"><a href="https://bioaics.github.io/menu">Menu</a></font></strong>&nbsp;&nbsp;&nbsp;&nbsp;
 <strong><font size="6"><a href="tel:+31685842325">Call</a></font></strong>&nbsp;&nbsp;&nbsp;&nbsp;
 <strong><font size="6"><a href="mailto:bioaics.x@gmail.com">Mail</a></font></strong>
-
 # <strong><font size="7">bioAics</font></strong>
 <p><font size="6">biology</font></p>
 <p><font size="6">Artificial intelligence</font></p>
