@@ -2,8 +2,8 @@
 # <strong><font size="7">bioAics</font></strong>
 <p><strong><font size="4">Legal</font></strong></P>
 <img src="/Ben Adam w400.jpg" >
+<p>bioAics Universal</p>
 <p>Founder/CEO: Ben Adam </p>
-<p>bioAics</p>
 <p>Alexanderplatz 1</P>
 <P>10178 Berlin</P>
 <P>Germany</P>
