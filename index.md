@@ -1,7 +1,3 @@
-<header>
-<strong><font size="4"><a href="https://bioaics.github.io/legal">Legal</a></font></strong>
-</header>
-
 <head>
   
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
