@@ -1,5 +1,5 @@
 <header>
- [bioaics.github.io/legal]
+<strong><font size="4"><a href="https://bioaics.github.io/legal">Legal</a></font></strong>
 </header>
 
 <head>
