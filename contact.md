@@ -15,9 +15,6 @@
 </head>
 <a href="https://bioaics.github.io"><img width="85px" src="/bioAics.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;<strong><font size="6"><a href="https://bioaics.github.io/menu">Menu</a></font></strong>&nbsp;&nbsp;&nbsp;<strong><font size="6"><a href="tel:+31685842325">Call</a></font></strong>&nbsp;&nbsp;&nbsp;<strong><font size="6"><a href="mailto:bioaics.x@gmail.com">Mail</a></font></strong>
 # <strong><font size="7">bioAics</font></strong>
-<p>Alexanderplatz 1</p>
-<p>10178 Berlin</p>
-<p>Germany in the EU</p>
 <p>E-Mail: <a href="bioaics.x@gmail.com">bioaics.x@gmail.com</a></p>
 <p>Phone: <a href="tel:+31685842325">0031 6 8584 2325</a></p>
 Messenger: <a href="https://m.me/bioAics">m.me/bioAics</a>
