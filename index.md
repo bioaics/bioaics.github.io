@@ -20,5 +20,5 @@
 <p><font size="6">biology</font></p>
 <p><font size="6">Artificial intelligence</font></p>
 <p><font size="6">computer science</font></p>
-<hr>
+
 <strong><font size="4"><a href="https://bioaics.github.io/legal">Legal</a></font></strong> © 2019 bioAics
