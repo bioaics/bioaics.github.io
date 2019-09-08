@@ -23,7 +23,7 @@
 	formId: "478be260-a451-4fa8-8df7-ad2b8b571bf5"
 });
 </script>
-<hr>
+<br>
 <p>E-Mail: <strong><a href="bioaics.x@gmail.com">bioaics.x@gmail.com</a></strong></p>
 <p>Call: <strong><a href="tel:+31685842325">0031 6 8584 2325</a></strong></p>
 Messenger: <strong><a href="https://m.me/bioAics">m.me/bioAics</a></strong>
