@@ -13,8 +13,8 @@
   gtag('config', 'UA-147147534-1');
 </script>
 </head>
-<a href="https://bioaics.github.io"><img width="85px" src="/bioAics.svg"></a><strong><font size="7">bioAics</font></strong>
-# <strong><font size="6"><a href="https://bioaics.github.io/menu">Menu</a></font></strong> <strong><font size="6"><a href="https://bioaics.github.io/contact">Contact</a></font></strong>
+<a href="https://bioaics.github.io"><img width="85px" src="/bioAics.svg"></a> <strong><font size="7">bioAics</font></strong>
+<strong><font size="6"><a href="https://bioaics.github.io/menu">Menu</a></font></strong> <strong><font size="6"><a href="https://bioaics.github.io/contact">Contact</a></font></strong>
 
 <p><font size="6">biology</font></p>
 <p><font size="6">Artificial intelligence</font></p>
