@@ -15,7 +15,6 @@
 </head>
 <a href="https://bioaics.github.io"><img width="85px" src="/bioAics.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;<strong><font size="6"><a href="https://bioaics.github.io/menu">Menu</a></font></strong>&nbsp;&nbsp;&nbsp;<strong><font size="6"><a href="tel:+31685842325">Call</a></font></strong>&nbsp;&nbsp;&nbsp;<strong><font size="6"><a href="mailto:bioaics.x@gmail.com">Mail</a></font></strong>
 # <strong><font size="7">bioAics</font></strong>
-<p>bioAics</p>
 <p>CEO: Ben Adam </p>
 <p>Alexanderplatz 1</p>
 <p>10178 Berlin</p>
