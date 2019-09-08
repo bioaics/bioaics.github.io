@@ -19,11 +19,5 @@
 <p>E-Mail: <strong><a href="bioaics.x@gmail.com">bioaics.x@gmail.com</a></strong></p>
 <p>Call: <strong><a href="tel:+31685842325">0031 6 8584 2325</a></strong></p>
 <p>Messenger: <strong><a href="https://m.me/bioAics">m.me/bioAics</a></strong></p>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-<script>
-  hbspt.forms.create({
-	portalId: "6348461",
-	formId: "478be260-a451-4fa8-8df7-ad2b8b571bf5"
-});
-</script>
+
 <strong><font size="4"><a href="https://bioaics.github.io/legal">Legal</a></font></strong> © 2019 bioAics &nbsp; <strong><font size="4"><a href="https://www.minds.com/bioaics" target="_blank">minds</a></font> &nbsp; <font size="4"><a href="https://twitter.com/bioAics" target="_blank">twitter</a></font></strong>
