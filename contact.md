@@ -18,7 +18,6 @@
 <p><strong><font size="4">Contact bioAics</font></strong></p>
 <p>E-Mail: <strong><a href="bioaics.x@gmail.com">bioaics.x@gmail.com</a></strong></p>
 <p>Call: <strong><a href="tel:+31685842325">0031 6 8584 2325</a></strong></p>
-<p>Messenger: <strong><a href="https://m.me/bioAics">m.me/bioAics</a></strong></p>
 <p>Address: Alexanderplatz 1, 10178 Berlin</p>
 <p>Germany, in the EU</p>
 
