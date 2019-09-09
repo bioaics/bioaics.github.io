@@ -15,9 +15,12 @@
 </head>
 <strong><font size="6"><a href="https://bioaics.github.io/menu">Menu</a></font></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><font size="6"><a href="https://bioaics.github.io/contact">Contact</a></font></strong>
 
-<p><a href="https://bioaics.github.io"><img width="70px" src="/bioAics.svg"></a>&nbsp;&nbsp;<strong><font size="7">bioAics</font></strong></p>
+<p><a href="https://bioaics.github.io"><img wsrc="/bioics logo 70.png"></a>&nbsp;&nbsp;
 <p><font size="6">biology</font></p>
 <p><font size="6">Artificial intelligence</font></p>
 <p><font size="6">computer science</font></p>
 
 <strong><font size="4"><a href="https://bioaics.github.io/legal">Legal</a></font></strong> © 2019 bioAics
+
+<img width="70px" src="/bioAics.svg"><strong><font size="7">bioAics</font></strong></p>
+bioics logo 70.png
