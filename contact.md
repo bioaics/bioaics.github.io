@@ -1,7 +1,6 @@
 <strong><font size="6"><a href="https://bioaics.github.io/menu">Menu</a></font></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><font size="6"><a href="https://bioaics.github.io/contact">Contact</a></font></strong>
 
 # <a href="https://bioaics.github.io"><img width="70px" src="/bioAics.svg" /></a> &nbsp;<strong><font size="7">bioAics</font></strong>
-
 <p><strong><font size="4">Contact bioAics</font></strong></p>
 <p>Alexanderplatz 1, 10178 Berlin</p>
 <p>Germay, in the EU</p>
