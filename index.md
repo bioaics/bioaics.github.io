@@ -15,7 +15,7 @@
 </head>
 <strong><font size="6"><a href="https://bioaics.github.io/menu">Menu</a></font></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><font size="6"><a href="https://bioaics.github.io/contact">Contact</a></font></strong>
 
-<p><a href="https://bioaics.github.io"><img h=70px src="/bioAics.svg"></a>
+<p><a href="https://bioaics.github.io"><img width="70px" src="/bioAics.svg" /></a>  <strong><font size="7">bioAics</font></strong></p>
 <p><font size="6">biology</font></p>
 <p><font size="6">Artificial intelligence</font></p>
 <p><font size="6">computer science</font></p>
