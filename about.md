@@ -4,8 +4,7 @@
 <p>bioAics is biology Artificial intelligence computer science. bioAics is an interdisciplinary science including biology Artificial intelligence computer science. bioAics will be a key science of the future. The main focus is biology, how it works and creates. Biological inspired Artificial intelligence computer science.</p>
 <p>What the nature has created in billions of jears we can not make better in lifetime and even not in a century or millennium. The only thing we can do is learn from the nature processes, develop it for human needs and use it. Especially in survival and health, nature is ahead of us. bioAics is to adapt to the nature further to create a biological consciousness in the society.</p>
 <p>There is a universal biological sruggle wich is the most powerful action we can imagine and even not imagine. All power we have belongs to this action. First we need to understand the biology of the universe including the micro- and macro circumstances.</p>
-<p>An other focus is the survival of humanity, wich belongs to the way we live. We only survive if we live a natural way of life.</p>
-<p>bioAics is open source and searching for researchers and computer scientists to work together on bioAics information architecture. The cooperation is voluntarily and free of charge. If You have any question or You want to cooperate feel free to <strong><a href="https://bioaics.github.io/contact">Contact</a></strong> us.
+<p>bioAics is open source and searching for computer scientists to work together on bioAics information architecture. The cooperation is voluntarily and free of charge. If You have any question or You want to cooperate feel free to <strong><a href="https://bioaics.github.io/contact">Contact</a></strong> us.
 
 Ben Adam, bioAics
 
