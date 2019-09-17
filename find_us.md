@@ -9,5 +9,6 @@
 <p><strong><font size="5"><a href="https://diasp.org/people/5e46a9b0b06901373a47047d7b62795e" target="_blank">Diasp</a></font></strong></p>
 <p><strong><font size="5"><a href="https://www.linkedin.com/in/ben-adam/" target="_blank">LinkedIn</a></font></strong></p>
 <p><strong><font size="5"><a href="https://medium.com/@bioAics" target="_blank">Medium</a></font></strong></p>
+<p><strong><font size="5"><a href="https://soundcloud.com/bioaics" target="_blank">SoundCloud</a></font></strong></p>
 
 <strong><font size="4"><a href="https://bioaics.github.io/legal">Legal</a></font></strong> © 2019 bioAics
