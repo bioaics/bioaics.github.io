@@ -16,6 +16,4 @@
 <p><strong><font size="5"><a href="https://scoop.it/u/bioaics" target="_blank">Scoopit</a></font></strong></p>
 <p><strong><font size="5"><a href="https://www.diigo.com/profile/bioaics" target="_blank">diigo</a></font></strong></p>
 
-
-
 <strong><font size="4"><a href="https://bioaics.github.io/legal">Legal</a></font></strong> © 2019 bioAics
