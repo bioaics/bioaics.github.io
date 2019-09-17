@@ -4,6 +4,7 @@
 <p><strong><font size="5"><a href="https://bioaics.github.io">Home</a></font></strong></P>
 <p><strong><font size="5"><a href="https://bioaics.github.io/menu">Menu</a></font></strong></P>
 <p><strong><font size="5"><a href="https://bioaics.github.io/about">About</a></font></strong></P>
+<p><strong><font size="5"><a href="https://bioaics.github.io/find_us">Find Us</a></font></strong></P>
 <p><strong><font size="5"><a href="https://bioaics.github.io/contact">Contact</a></font></strong></P>
 <p><strong><font size="5"><a href="https://bioaics.github.io/legal">Legal</a></font></strong></P>
 
