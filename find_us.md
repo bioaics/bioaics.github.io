@@ -14,6 +14,7 @@
 <p><strong><font size="5"><a href="https://reddit.com/u/bioAics" target="_blank">reddit</a></font></strong></p>
 <p><strong><font size="5"><a href="https://gab.com/bioaics" target="_blank">gap</a></font></strong></p>
 <p><strong><font size="5"><a href="https://scoop.it/u/bioaics" target="_blank">Scoopit</a></font></strong></p>
+<p><strong><font size="5"><a href="https://www.diigo.com/profile/bioaics" target="_blank">diigo</a></font></strong></p>
 
 
 
