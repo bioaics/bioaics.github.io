@@ -13,5 +13,8 @@
 <p><strong><font size="5"><a href="https://soundcloud.com/bioaics" target="_blank">SoundCloud</a></font></strong></p>
 <p><strong><font size="5"><a href="https://reddit.com/u/bioAics" target="_blank">reddit</a></font></strong></p>
 <p><strong><font size="5"><a href="https://gab.com/bioaics" target="_blank">gap</a></font></strong></p>
+<p><strong><font size="5"><a href="https://scoop.it/u/bioaics" target="_blank">Scoopit</a></font></strong></p>
+
+
 
 <strong><font size="4"><a href="https://bioaics.github.io/legal">Legal</a></font></strong> © 2019 bioAics
