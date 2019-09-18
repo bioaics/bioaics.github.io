@@ -1,6 +1,9 @@
 # <a href="https://bioaics.github.io"><img width="60px" src="/bioAics.svg" /></a> &nbsp;<strong><font size="7">bioAics</font></strong>
 <strong><font size="5"><a href="https://bioaics.github.io/menu">Menu</a></font></strong>&nbsp;&nbsp;&nbsp;<strong><font size="5"><a href="https://bioaics.github.io/about">About</a>&nbsp;&nbsp;&nbsp;<strong><font size="5"><a href="https://bioaics.github.io/contact">Contact</a></font></strong>
 <p><strong><font size="4">Find Us bioAics</font></strong></p>
+<p><strong>International Journals></strong></p>
+<p><strong><font size="5"><a href="https://bioaics.livejournal.com" target="_blank">LiveJournal</a></font></strong></p>
+<p><strong>Uncategorized></strong></p>
 <p><strong><font size="5"><a href="https://minds.com/bioaics" target="_blank">Minds</a></font></strong></p>
 <p><strong><font size="5"><a href="https://github.com/bioaics" target="_blank">GitHub</a></font></strong></p>
 <p><strong><font size="5"><a href="https://meetup.com/members/289362836" target="_blank">MeetUp</a></font></strong></p>
