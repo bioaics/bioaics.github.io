@@ -11,7 +11,6 @@
 <p><strong><font size="5"><a href="https://linkedin.com/in/ben-adam/" target="_blank">LinkedIn</a></font></strong></p>
 <p><strong><font size="5"><a href="https://medium.com/@bioAics" target="_blank">Medium</a></font></strong></p>
 <p><strong><font size="5"><a href="https://soundcloud.com/bioaics" target="_blank">SoundCloud</a></font></strong></p>
-<p><strong><font size="5"><a href="https://soundcloud.com/bioaics" target="_blank">SoundCloud</a></font></strong></p>
 <p><strong><font size="5"><a href="https://reddit.com/u/bioAics" target="_blank">reddit</a></font></strong></p>
 <p><strong><font size="5"><a href="https://gab.com/bioaics" target="_blank">gap</a></font></strong></p>
 <p><strong><font size="5"><a href="https://scoop.it/u/bioaics" target="_blank">Scoopit</a></font></strong></p>
