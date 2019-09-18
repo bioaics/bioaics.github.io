@@ -18,5 +18,7 @@
 <p><strong><font size="5"><a href="https://pearltrees.com/bioaics" target="_blank">pearltrees</a></font></strong></p>
 <p><strong><font size="5"><a href="https://genius.com/bioAics" target="_blank">Genius</a></font></strong></p>
 <p><strong><font size="5"><a href="https://slashdot.org/~bioAics" target="_blank">Slashdot</a></font></strong></p>
-  
+<p><strong><font size="5"><a href="https://mix.com/bioaics" target="_blank">Mix</a></font></strong></p>
+
+
 <strong><font size="4"><a href="https://bioaics.github.io/legal">Legal</a></font></strong> © 2019 bioAics
