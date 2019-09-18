@@ -21,5 +21,6 @@
 <p><strong><font size="5"><a href="https://mix.com/bioaics" target="_blank">Mix</a></font></strong></p>
 <p><strong><font size="5"><a href="https://www.bibsonomy.org/user/bioaics" target="_blank">BibSonomy</a></font></strong></p>
 <p><strong><font size="5"><a href="http://ttlink.com/bioaics" target="_blank">ttLink</a></font></strong></p>
+<p><strong><font size="5"><a href="http://www.folkd.com/user/bioAics" target="_blank">folkd</a></font></strong></p>
 
 <strong><font size="4"><a href="https://bioaics.github.io/legal">Legal</a></font></strong> © 2019 bioAics
