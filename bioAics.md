@@ -2,6 +2,6 @@
 <strong><font size="5"><a href="https://bioaics.github.io/menu">Menu</a></font></strong>&nbsp;&nbsp;&nbsp;<strong><font size="5"><a href="https://bioaics.github.io/about">About</a>&nbsp;&nbsp;&nbsp;<strong><font size="5"><a href="https://bioaics.github.io/contact">Contact</a></font></strong>
 <p><strong><font size="4">bioAics</font></strong></p>
 <p>bioAics information about this website.</p>
-<p><strong><font size="4"><a href="https://search.google.com/test/mobile-friendly?id=K_c2vnXx8p2XvosjuenFFg">Google Mobile-Friendly Test</a></font></strong></p>
+<p><strong><font size="4"><a href="https://search.google.com/test/mobile-friendly?id=K_c2vnXx8p2XvosjuenFFg" target="_blank>Google Mobile-Friendly Test</a></font></strong></p>
 
 <strong><font size="4"><a href="https://bioaics.github.io/legal">Legal</a></font></strong> © 2019 bioAics
