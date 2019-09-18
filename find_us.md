@@ -9,6 +9,7 @@
 <p><strong><font size="5"><a href="https://meetup.com/members/289362836" target="_blank">MeetUp</a></font></strong></p>
 <p><strong><font size="5"><a href="https://twitter.com/bioAics/" target="_blank">twitter</a></font></strong></p>
 <p><strong><font size="5"><a href="https://bioaics.wordpress.com/" target="_blank">WordPress</a></font></strong></p>
+<p><strong><font size="5"><a href="https://bioaics.blogspot.com/" target="_blank">Blogspot</a></font></strong></p>
 <p><strong><font size="5"><a href="https://groups.google.com/forum/#!forum/bioaics" target="_blank">Google Groups</a></font></strong></p>
 <p><strong><font size="5"><a href="https://diasp.org/people/5e46a9b0b06901373a47047d7b62795e" target="_blank">Diasp</a></font></strong></p>
 <p><strong><font size="5"><a href="https://linkedin.com/in/ben-adam/" target="_blank">LinkedIn</a></font></strong></p>
