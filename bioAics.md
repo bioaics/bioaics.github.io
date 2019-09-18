@@ -3,5 +3,6 @@
 <p><strong><font size="4">bioAics</font></strong></p>
 <p>bioAics information about this website.</p>
 <p><strong><font size="4"><a href="https://search.google.com/test/mobile-friendly?id=K_c2vnXx8p2XvosjuenFFg" target="_blank">Google Mobile-Friendly Test</a></font></strong></p>
+<p><strong><font size="4"><a href="https://material.io/resources/resizer/#device=handset&url=https%3A%2F%2Fbioaics.github.io&width=360" target="_blank">Material Resizer Responsive)</a></font></strong></p>
 
 <strong><font size="4"><a href="https://bioaics.github.io/legal">Legal</a></font></strong> © 2019 bioAics
