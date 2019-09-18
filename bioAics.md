@@ -4,10 +4,8 @@
 <p><strong>bioAics is responsive</strong></p>
 <p><strong><font size="4"><a href="https://search.google.com/test/mobile-friendly?id=K_c2vnXx8p2XvosjuenFFg" target="_blank">Google Mobile-Friendly Test</a></font></strong></p>
 <p><strong><font size="4"><a href="https://material.io/resources/resizer/#device=handset&url=https%3A%2F%2Fbioaics.github.io&width=360" target="_blank">Material Resizer Responsive</a></font></strong></p>
-<p><strong><font size="4"><a href="https://responsinator.com/?url=https%3A%2F%2Fbioaics.github.io" target="_blank">Responsinator</a></font></strong></p>
 <p><strong>bioAics is fast</strong></p>
 <p><strong><font size="4"><a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fbioaics.github.io&tab=desktop" target="_blank">Google PageSpeed Insights</a></font></strong></p>
 <p><strong><font size="4"><a href="https://gtmetrix.com/reports/bioaics.github.io/NGqkuUQZ" target="_blank">GTmetrix PageSpeed Test</a></font></strong></p>
-<p><strong><font size="4"><a href="https://tools.pingdom.com/#5b515ceb79400000" target="_blank">Pingdom Website Speed Test</a></font></strong></p>
   
 <strong><font size="4"><a href="https://bioaics.github.io/legal">Legal</a></font></strong> © 2019 bioAics
