@@ -3,6 +3,8 @@
 <p><strong><font size="4">Find Us bioAics</font></strong></p>
 <p><strong>International Journals</strong></p>
 <p><strong><font size="5"><a href="https://bioaics.livejournal.com" target="_blank">LiveJournal</a></font></strong></p>
+<p><strong>German Journals</strong></p>
+<p><strong><font size="5"><a href="https://heise.de/forum/heise-online/Roboter/Wir-sind-die-Roboter/posting-35266727/show/" target="_blank">Heise</a></font></strong></p>
 <p><strong>Blogs</strong></p>
 <p><strong><font size="5"><a href="https://bioaics.wordpress.com/" target="_blank">WordPress</a></font></strong></p>
 <p><strong><font size="5"><a href="https://bioaics.blogspot.com/" target="_blank">Blogspot</a></font></strong></p>
