@@ -1,8 +1,6 @@
 # <a href="https://bioaics.github.io"><img width="60px" src="/bioAics.svg" /></a> &nbsp;<strong><font size="7">bioAics</font></strong>
 <strong><font size="5"><a href="https://bioaics.github.io/menu">Menu</a></font></strong>&nbsp;&nbsp;&nbsp;<strong><font size="5"><a href="https://bioaics.github.io/about">About</a>&nbsp;&nbsp;&nbsp;<strong><font size="5"><a href="https://bioaics.github.io/contact">Contact</a></font></strong>
 <p><strong><font size="4">We are the robots</font></strong></p>
-We are the robots
-
 "We are the robots" is also a song of the band Kraftwerk.
 But this is about us, the people. We are the robots. What does this mean? Robots are programmed electronic, electrical, mechanical and today also biological machines. If we look at the human being as a whole, we see that we have the same pattern. We are programmed by our living environment with all its influence. Our neural networks are electronic. Our vegetative system is electric. We are mechanical, even when we sleep. And last but not least, we follow a universal biological struggle, survival.
 
