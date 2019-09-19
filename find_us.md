@@ -14,6 +14,7 @@
 <p><strong><font size="5"><a href="https://bioaics.blogspot.com/" target="_blank">Blogspot</a></font></strong></p>
 <p><strong>Uncategorized</strong></p>
 <p><strong><font size="5"><a href="https://minds.com/bioaics" target="_blank">Minds</a></font></strong></p>
+<p><strong><font size="5"><a href="https://vk.com/bioaics" target="_blank">V Kontakte</a></font></strong></p>
 <p><strong><font size="5"><a href="https://github.com/bioaics" target="_blank">GitHub</a></font></strong></p>
 <p><strong><font size="5"><a href="https://meetup.com/members/289362836" target="_blank">MeetUp</a></font></strong></p>
 <p><strong><font size="5"><a href="https://twitter.com/bioAics/" target="_blank">twitter</a></font></strong></p>
